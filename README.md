@@ -87,7 +87,7 @@ Two key metrics are used in this project to assess kidney health:
 
 The SVM model achieved the following performance metrics:
 
-- **Training Accuracy**: 0.92
+- **Training Accuracy**: 0.98
 - **Testing Accuracy**: 0.92
 - **F1-Score**: 0.91
 - **Precision**: 0.93
