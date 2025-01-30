@@ -128,11 +128,6 @@ Use the same evaluation metrics (accuracy, precision, recall, F1-score, ROC-AUC)
   - matplotlib
   - pickle
 
-## Future Work
-
-- Incorporate additional features such as patient medical history.
-- Experiment with other machine learning models (e.g., Random Forest, XGBoost).
-- Deploy the model as a web application for real-time predictions.
 
 ## Conclusion
 
